@@ -8,7 +8,7 @@ export const Bio = {
       "Self-learnt Full Stack Developer, chasing innovation thorugh curiosity ,eager to develop complex Web Applications and expand the knowledge",
     github: "https://github.com/athulharilal",
     resume:
-      "https://drive.google.com/file/d/1nQ6hRmHtO-m0TfsKSXVZE6Z1bhziBT5Q/view?usp=sharing",
+      "https://drive.google.com/file/d/1ObowJuFB2HEP_Q6GMpCrvSMJ7exgHqO8/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/athulharilal/",
     twitter: "https://twitter.com/AthulHarilal",
     insta: "https://www.instagram.com/athulharilal8081/",
